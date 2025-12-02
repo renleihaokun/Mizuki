@@ -18,11 +18,11 @@ export type DeviceCategory = {
 export const devicesData: DeviceCategory = {
 	OnePlus: [
 		{
-			name: "OnePlus 13T",
-			image: "/images/device/oneplus13t.png",
-			specs: "Gray / 16G + 1TB",
+			name: "OPPO Find X8 Pro",
+			image: "/images/device/x8p.png",
+			specs: "Gray / 16G + 512GB",
 			description: "Flagship performance, Hasselblad imaging, 80W SuperVOOC.",
-			link: "https://www.oneplus.com/cn/13t",
+			link: "https://www.oppo.com/cn/smartphones/series-find-x/find-x8-pro/",
 		},
 	],
 	Router: [
