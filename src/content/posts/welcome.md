@@ -1,5 +1,5 @@
 ---
-title: welcome
+title: 你好
 published: 2025-12-02
 pinned: true
 description: 试试呢
