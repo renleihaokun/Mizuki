@@ -135,7 +135,7 @@ export const siteConfig: SiteConfig = {
 
 		homeText: {
 			enable: true, // 在主页显示自定义文本
-			title: "鸟", // 主页横幅主标题
+			title: "嗯", // 主页横幅主标题
 
 			subtitle: [
 				"bird",
