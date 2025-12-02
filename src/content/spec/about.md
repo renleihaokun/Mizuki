@@ -1,49 +1,44 @@
+# 关于我
 
-This website is built with the **Astro** framework using the [Mizuki](https://github.com/matsuzaka-yuki/mizuki) theme.
+> Stay hungry, stay foolish.
 
-::github{repo="matsuzaka-yuki/Mizuki"}
+你好，我是 **[困]**！很高兴在这里与你相遇。
 
-## 🌟 Theme Features
+## 👋 我是谁？
 
-### 🎨 Design & User Experience
-- **Modern & Elegant Design** - Clean, minimalist interface with beautiful typography
-- **Fully Responsive** - Optimized for all devices from mobile to desktop
-- **Dark/Light Mode** - Automatic theme switching with smooth transitions
-- **Beautiful Typography** - Enhanced readability with JetBrains Mono font
-- **Smooth Animations** - Fluid page transitions and interactive elements
+我是一名 **[苦逼华农生物科学本科生]**，目前生活在 **[武汉]**。
 
-### 🔍 Content & Search
-- **Advanced Search** - Powered by [Pagefind](https://pagefind.app/) for fast, accurate results
-- **Enhanced Markdown** - Extended syntax with code highlighting and math support
-- **Interactive Table of Contents** - Auto-scroll navigation for long articles
-- **RSS Feed Generation** - Stay updated with automatic feed generation
-- **Reading Time Estimation** - Know how long articles take to read
-- **Post Categorization** - Organize content with tags and categories
+我对 **[活着]** 充满热情，致力于探索和分享能够提升开发效率和生活品质的技术与思考。（真的假的我自己都不信
 
+工作之余，我是一个 **[鸟人]**，喜欢用 **[大炮打鸟嘿嘿嘿嘿嘿]**。
 
+## 🚀 关于这个博客
 
-### 📱 Special Pages
-- **Anime Tracking Page** - Track your anime watching progress with ratings
-- **Friends Links Page** - Showcase friend websites with beautiful cards
-- **Diary/Moments Page** - Share life moments like social media posts
-- **Archive Page** - Organized timeline view of all posts
-- **About Page** - Customizable personal introduction (this page!)
+创建这个博客的初衷是记录自己的学习与成长，并分享知识给同样走在这条路上的人。在这里，你可能会看到以下内容：
 
-### 🛠 Technical Features
-- **Enhanced Code Blocks** - Powered by [Expressive Code](https://expressive-code.com/)
-- **Math Support** - LaTeX rendering with KaTeX for mathematical expressions
-- **Image Optimization** - PhotoSwipe gallery with lazy loading
-- **SEO Optimized** - Built-in sitemap and meta tags for better search visibility
-- **Performance Optimized** - Fast loading with caching and optimization
-- **Comment System Ready** - Integration support for Twikoo comments
+*   **💻 技术分享**：深入探讨 `懒狗不知道什么时候会学的哪些`领域的实践与心得。
+*   **📖 学习笔记**：可能记录我在学习新技术、阅读书籍时的思考与总结。
+*   **🛠️ 项目复盘**：分享个人项目的开发历程，从构思到上线的踩坑与收获。
+*   **✨ 生活随想**：偶尔也会分享一些关于效率工具、旅行或摄影的非技术内容。
 
-### 🎯 Advanced Markdown Features
-- **Callouts & Admonitions** - Beautiful info boxes with `> [!NOTE]`, `> [!TIP]`, `> [!WARNING]`
-- **Mathematical Equations** - Write LaTeX math with `$inline$` and `$$block$$` syntax
-- **GitHub Cards** - Embed repository cards with `::github{repo="user/repo"}`
-- **Syntax Highlighting** - Advanced code highlighting with line numbers
-- **Copy Code Buttons** - Easy code copying functionality
+我希望通过这个小站，不仅能巩固我自己的知识体系，也能为路过的你带来一些启发和帮助（哈，模板
+
+## 🔧 我的技术栈
+
+以下是我常用的一些技术和工具，也是本站内容的主要来源：
+
+*   **前端**: `无`
+*   **后端**: `无`
+*   **部署**:  `Docker`, `Cloudflare`
+*   **工具**: `VS Code`, `Git`
+*   **老师**：`AI真是太好用了`
+
+## 📬 如何联系我
+
+如果你对我的文章有任何疑问，或者希望与我交流，可以通过以下方式找到我：
+
+*   **就不告诉你~**
 
 ---
 
-*Built with ❤️ using Astro and inspired by modern web design principles.*
+感谢你的来访！
