@@ -2,16 +2,15 @@
 title: welcome
 published: 2025-12-02
 pinned: true
-description: A simple example of a Markdown blog post.
+description: 试试呢
 tags: [Markdown, Blogging,Welcome]
-category: Examples
+category: first blog
 licenseName: "Unlicensed"
 author: renleihaokun
 draft: false
 date: 2025-12-02
-image: "./cover.png"
 pubDate: 2025-12-02
-permalink: "encrypted-example"
+permalink: "first blog"
 ---
 
 
