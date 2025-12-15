@@ -11,6 +11,7 @@ draft: true
 date: 2025-12-03
 image: "./cover.png"
 pubDate: 2025-01-20
+permalink: "randomseat"
 ---
 
 事件起因：高一时的班主任让我做一个随机座位表  
