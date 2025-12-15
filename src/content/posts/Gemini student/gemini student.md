@@ -9,7 +9,7 @@ licenseName: "Unlicensed"
 author: renleihaokun
 draft: false
 date: 2025-12-15
-image: "./gemini page.png"
+image: "./gemini_page.png"
 pubDate: 2025-12-15
 permalink: "Gemini student"
 ---
@@ -17,7 +17,7 @@ permalink: "Gemini student"
 
 **活动入口：** https://gemini.google/students/
 
-![gemini](Gemini page.png)
+![gemini](Gemini_page.png)
 
 ---
 
@@ -36,7 +36,7 @@ permalink: "Gemini student"
 
 接下来是认证 SheerID 环节，然后就出现**奸商**了：  
 
-![描述](fake page.png)
+![描述](fake_page.png)
 
 **这年头信息差真好挣钱！** 
 机器人认证 SheerID 能卖你 **39**，还不一定是多好的网络环境。
@@ -53,7 +53,7 @@ permalink: "Gemini student"
 绑卡订阅就行了（话说都有美区付款信息了会没绑卡吗？）  
 
 
-![订阅截图](success page.png)
+![订阅截图](success_page.png)
 
 **什么？你说的没非银联卡？**
 
