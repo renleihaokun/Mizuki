@@ -9,7 +9,7 @@ licenseName: "Unlicensed"
 author: renleihaokun
 draft: false
 date: 2025-12-15
-image: "./gemini_page.png"
+image: "gemini_page.png"
 pubDate: 2025-12-15
 permalink: "Gemini student"
 ---
