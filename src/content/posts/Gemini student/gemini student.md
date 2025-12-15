@@ -13,7 +13,7 @@ image: "./gemini_page.png"
 pubDate: 2025-12-15
 permalink: "Gemini student"
 ---
-# 真逆天吧，Gemini学生认证全是信息差
+## 真逆天吧，Gemini学生认证全是信息差
 
 **活动入口：** https://gemini.google/students/
 
@@ -21,7 +21,7 @@ permalink: "Gemini student"
 
 ---
 
-###  第一步：为什么提示“你的地区不支持 Google One”？
+#  第一步：为什么提示“你的地区不支持 Google One”？
 
 确实是账号区域有问题，但**不是**条款里点进去显示的那个地区！那个只是显示你当前的ip在哪（也就是你挂的哪的节点）。
 
@@ -32,7 +32,7 @@ permalink: "Gemini student"
 
 ---
 
-###  第二步：SheerID 认证（拒绝奸商）
+#  第二步：SheerID 认证（拒绝奸商）
 
 接下来是认证 SheerID 环节，然后就出现**奸商**了：  
 
@@ -47,7 +47,7 @@ permalink: "Gemini student"
 
 ---
 
-###  第三步：订阅与扣款
+#  第三步：订阅与扣款
 
 回到刚才谷歌优惠套餐的界面，这时候刷新就能看到 **“让你学生认证的按钮”** 变成了 **“订阅”**。
 绑卡订阅就行了（话说都有美区付款信息了会没绑卡吗？）  
