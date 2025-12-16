@@ -5,8 +5,8 @@
   "cover": "https://c147721a.kunblog--cloudflare-imgbed.pages.dev/file/1765894176034_DSC01824-已增强-NR.jpg",
   "location": "地球",
   "tags": ["鸟", "景"],
-  "layout": "masonry",
-  "columns": 3,
+  "layout": "Grid",
+  "columns": 4,
   "photos": [
   {
     "src": "https://c147721a.kunblog--cloudflare-imgbed.pages.dev/file/1765901295260_20241222093915_IMG_2554.JPG"
