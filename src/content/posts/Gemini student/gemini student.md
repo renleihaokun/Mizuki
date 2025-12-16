@@ -60,7 +60,7 @@ permalink: "Gemini student"
 *    **招商银行**：去申请一张 **万事达储蓄卡普卡**，非常好申请，~甚至机器上没卡面了还会申请一张银联普卡然后去人工窗口当场销毁换卡~  
        *Oh 耶，招行万岁！* 🥳
 ---
-#### 出现账号被封禁怎么办  
+## 出现账号被封禁怎么办  
 ![ae5a46ce7826ce8337b4f0ca7083dcd8.png](https://c147721a.kunblog--cloudflare-imgbed.pages.dev/file/1765892775679_ae5a46ce7826ce8337b4f0ca7083dcd8.png)  
 
 ~当然是让Gemini写小作文跟谷歌申诉啦~  
