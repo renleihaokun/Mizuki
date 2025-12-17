@@ -5,7 +5,7 @@ pinned: false
 description: 试试呢
 tags: [Markdown, Blogging,Welcome]
 category: first blog
-licenseName: "Unlicensed"
+licenseName: "CC BY 4.0"
 author: renleihaokun
 draft: false
 date: 2025-12-02
