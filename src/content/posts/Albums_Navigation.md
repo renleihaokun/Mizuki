@@ -1,11 +1,11 @@
 ---
-title: Albums Navigation
+title: 相册导航
 published: 2025-12-17
 pinned: true
 description: 引导到不同的相册
 tags: [Album, Navigation]
 category: navigation
-licenseName: "Unlicensed"
+licenseName: "CC BY 4.0"
 author: renleihaokun
 draft: false
 date: 2025-12-17
