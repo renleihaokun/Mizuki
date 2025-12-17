@@ -16,7 +16,10 @@ permalink: "Albums_Navigation"
 # 这是一个常更新相册导航帖 #
 
 ## 鸟  
-*鸟人往这走*  
-https://blog.rlhk.dpdns.org/albums/bird  
+<a href="/albums/bird">*鸟人往这走* </a>
 ![IMG_4313-已增强-NR.webp](https://c147721a.kunblog--cloudflare-imgbed.pages.dev/file/1765952777509_IMG_4313-已增强-NR.webp)  
 
+## 风光·苏州
+  
+<a href="/albums/Scene_SuZhou">*苏州，是家*</a>
+![1765979896474.webp](https://c147721a.kunblog--cloudflare-imgbed.pages.dev/file/苏州/1765980585733_1765979896474.webp)
