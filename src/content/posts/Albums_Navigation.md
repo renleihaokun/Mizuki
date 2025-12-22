@@ -11,6 +11,7 @@ draft: false
 date: 2025-12-17
 pubDate: 2025-12-17
 permalink: "Albums_Navigation"
+image: "https://imgbed.haokun.me/file/1765952777509_IMG_4313-已增强-NR.webp"
 ---
 
 # 这是一个常更新相册导航帖 #
