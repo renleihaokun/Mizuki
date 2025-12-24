@@ -21,7 +21,7 @@ image: "https://imgbed.haokun.me/file/1766409101262_image.png"
 ![image.png](https://imgbed.haokun.me/file/1766408958514_image.png)  
 ### 优选后：  
 ![image.png](https://imgbed.haokun.me/file/1766409075347_image.png)  
-甚至如果去掉~路边一条的~联通还能更绿:  
+甚至如果去掉~(路边一条的)~联通还能更绿:  
 ![image.png](https://imgbed.haokun.me/file/1766409101262_image.png) 
 
 --- 
