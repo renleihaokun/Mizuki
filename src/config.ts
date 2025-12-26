@@ -240,6 +240,7 @@ export const navBarConfig: NavBarConfig = {
 			url: "/albums/",
 			icon: "material-symbols:photo-library",
 		},
+		/*
 		{
 			name: "Links",
 			url: "/links/",
@@ -259,6 +260,7 @@ export const navBarConfig: NavBarConfig = {
 				}
 			],
 		},
+		*/
 		{
 			name: "My",
 			url: "/content/",
