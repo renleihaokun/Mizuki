@@ -5,7 +5,7 @@
   "cover": "https://imgbed.haokun.me/file/1766760316721_1765979684407.webp",
   "location": "地球",
   "tags": ["火车","铁路"],
-  "layout": "Grid",
+  "layout": "masonry",
   "columns": 4,
   "photos": [
   {
