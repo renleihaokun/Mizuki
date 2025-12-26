@@ -289,15 +289,16 @@ export const navBarConfig: NavBarConfig = {
 			],
 		},
 		{
-			name: "About",
-			url: "/about/",
-			icon: "material-symbols:person",
-		},
-		{
 			name: "Friends",
 			url: "/friends/",
 			icon: "material-symbols:group",
+		},
+		{
+			name: "About",
+			url: "/about/",
+			icon: "material-symbols:person",
 		}
+
 		//{
 		//	name: "Others",
 		//	url: "#",
