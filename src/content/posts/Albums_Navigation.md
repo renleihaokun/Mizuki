@@ -1,7 +1,7 @@
 ---
 title: 相册导航
 published: 2025-12-17
-pinned: true
+pinned: false
 description: 引导到不同的相册
 tags: [Album, Navigation]
 category: navigation
