@@ -7,7 +7,7 @@ tags: [Markdown, Blogging,Welcome]
 category: first blog
 licenseName: "CC BY 4.0"
 author: renleihaokun
-draft: false
+draft: true
 date: 2025-12-02
 pubDate: 2025-12-02
 permalink: "first blog"
