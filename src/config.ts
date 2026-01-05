@@ -193,9 +193,9 @@ export const siteConfig: SiteConfig = {
 		},
 		cjkFont: {
 			// 中日韩字体 - 作为回退字体
-			fontFamily: "HYRunYuan-55W",
+			fontFamily: "HYRunYuan-65S",
 			fontWeight: "500",
-			localFonts: ["HYRunYuan-55W.ttf"],
+			localFonts: ["HYRunYuan-65S.ttf"],
 			enableCompress: true, // 启用字体子集优化，减少字体文件大小
 		},
 	},
