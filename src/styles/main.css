@@ -23,7 +23,7 @@
 @font-face {
 	font-family: "萝莉体 第二版.";
 	src: url("/assets/font/萝莉体 第二版.ttf") format("truetype");
-	font-style: normal;
+/*	font-style: normal;*/
 	font-weight: 400;
 	font-display: swap;
 }
