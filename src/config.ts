@@ -139,9 +139,9 @@ export const siteConfig: SiteConfig = {
 
 			subtitle: [
 				"你好",
-				"你真的好吗",
-				"我好吗",
-				"我好像不好",
+				"咕咕嘎嘎",
+				"咕嘎咕嘎",
+				"咕嘎",
 				"咕咕嘎嘎",
 			],
 			typewriter: {
@@ -194,7 +194,7 @@ export const siteConfig: SiteConfig = {
 		cjkFont: {
 			// 中日韩字体 - 作为回退字体
 			fontFamily: "LXGWNeoXiHeiPlus",
-			fontWeight: "700",
+			fontWeight: "900",
 			localFonts: ["LXGWNeoXiHeiPlus.ttf"],
 			enableCompress: true, // 启用字体子集优化，减少字体文件大小
 		},
