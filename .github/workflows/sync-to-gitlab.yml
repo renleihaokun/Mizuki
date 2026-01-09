@@ -20,3 +20,4 @@ jobs:
           target-url: https://gitlab.com/renleihaokun/renleihaokun-blog.git
           target-username: renleihaokun
           target-token: ${{ secrets.GITLAB_TOKEN }}
+          force-update: true
