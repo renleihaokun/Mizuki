@@ -5,8 +5,8 @@
 	"cover": "https://imgbed.haokun.me/file/1765894176034_DSC01824-已增强-NR.jpg",
 	"location": "地球",
 	"tags": ["鸟", "景"],
-	"layout": "masonry",
-	"columns": 3,
+	"layout": "Grid",
+	"columns": 4,
 	"photos": [
 		{
 			"src": "https://imgbed.haokun.me/file/1767938449825_DSC02800-已增强-NR_1.webp"
