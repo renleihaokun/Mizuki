@@ -6,7 +6,7 @@
 	"location": "地球",
 	"tags": ["鸟", "景"],
 	"layout": "masonry",
-	"columns": 4,
+	"columns": 3,
 	"photos": [
 		{
 			"src": "https://imgbed.haokun.me/file/1767938449825_DSC02800-已增强-NR_1.webp"
