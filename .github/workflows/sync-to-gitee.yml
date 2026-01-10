@@ -1,0 +1,33 @@
+name: Sync to Gitee (No SSH)
+
+on:
+  push:
+    branches: [ main, master ]  # 当推送到 main 或 master 时触发
+
+jobs:
+  run:
+    name: Sync-GitHub-to-Gitee
+    runs-on: ubuntu-latest
+    steps:
+      - name: Mirror the Github organization repos to Gitee.
+        uses: Yikun/hub-mirror-action@master
+        with:
+          # 你的 GitHub 用户名
+          src: github/renleihaokun
+          # 你的 Gitee 用户名
+          dst: gitee/renleihaokun
+          
+          # 刚才设置的 Secret，用于验证身份
+          dst_token: ${{ secrets.GITEE_TOKEN }}
+          
+          # 【关键设置】这里设置为 https，就不需要 SSH Key 了
+          clone_style: "https"
+          
+          # 如果是同步单个仓库，填写仓库名称（如果留空则会同步该账号下所有仓库）
+          # static_list: "你的仓库名" 
+          
+          # 强制更新，防止因为历史记录不一致导致失败
+          force_update: true
+          
+          # 开启调试模式（可选，出错时方便看日志）
+          debug: true
